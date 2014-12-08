@@ -1,0 +1,17 @@
+{
+  "name": "FileSaver.js",
+  "main": "FileSaver.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cleverplatypus/FileSaver.js",
+  "authors": [
+    "dalpontn <nicola.dalpont@news.com.au>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
